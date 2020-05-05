@@ -20,7 +20,7 @@ puts "Oh, and always wear sunscreen!"
 
 puts "\n-------------------------- \n\n" #break
 
-chance_of_rain = 0.3
+chance_of_rain = 0.9
 if chance_of_rain <= 0.25
   puts "Pack a sun shelter!"
 elsif (chance_of_rain > 0.25 && chance_of_rain < 0.75)
