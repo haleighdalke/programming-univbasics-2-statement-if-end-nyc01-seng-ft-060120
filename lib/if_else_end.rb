@@ -1,7 +1,7 @@
 # Write your solution here
 
 if true
-  puts "True"
+  puts "Even"
 else
-  puts "False"
+  puts "Odd"
 end
